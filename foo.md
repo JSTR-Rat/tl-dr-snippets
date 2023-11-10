@@ -1,1 +1,1 @@
-This is a Foo snippet
+This is a Foo snippet. And an edit

@@ -1,7 +1,7 @@
 Hello World!
 This is an edit!
 
-Yet another edit...
+Yet another edit....
 
 ## Typescript
 ~~~ts

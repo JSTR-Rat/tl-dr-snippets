@@ -15,17 +15,3 @@ console.log(msg);
 const msg = 'Hello World';
 console.log(msg);
 ~~~
-
-Go home!
-
-Or... Not.
-
-bahaha!
-
-oof
-
-ba
-
-achoo x3
-
-oof x4
